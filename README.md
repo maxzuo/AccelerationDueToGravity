@@ -1,4 +1,4 @@
-##### **Acceleration due to Gravity**
+# **Acceleration due to Gravity**
 
 This project was done in order to complete a physics lab. It is written in Python 2 and uses OpenCV.
 
